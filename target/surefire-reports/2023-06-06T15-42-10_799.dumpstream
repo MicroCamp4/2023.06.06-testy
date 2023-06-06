@@ -1,0 +1,5 @@
+# Created at 2023-06-06T15:42:10.901
+Boot Manifest-JAR contains absolute paths in classpath 'E:\MicroCamp4\2023.06.06-testy\testy\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
